@@ -117,4 +117,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-bcryptReminder
+.DS_Store
